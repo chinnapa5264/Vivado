@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Feb  8 15:07:51 2024
+# Process ID: 34932
+# Current directory: /home/abc/Desktop/Chinnapa/Thermostat/Thermostat.runs/synth_1
+# Command line: vivado -log thermostat.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source thermostat.tcl
+# Log file: /home/abc/Desktop/Chinnapa/Thermostat/Thermostat.runs/synth_1/thermostat.vds
+# Journal file: /home/abc/Desktop/Chinnapa/Thermostat/Thermostat.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source thermostat.tcl -notrace
